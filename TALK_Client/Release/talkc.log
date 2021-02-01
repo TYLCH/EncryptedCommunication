@@ -1,0 +1,9 @@
+﻿  StdAfx.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  MySocket.cpp
+  talkc.cpp
+e:\wechat\wechat files\juetinbireber\filestorage\file\2019-11\网络编程实用教程（第三版）--程序源代码.rar\第05章\点对点聊天\talk_client\talkc.cpp(58): warning C4996: 'CWinApp::Enable3dControls': CWinApp::Enable3dControls is no longer needed. You should remove this call.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\atlmfc\include\afxwin2.inl(1074): note: 参见“CWinApp::Enable3dControls”的声明
+  talkcDlg.cpp
+  正在生成代码...
+  talkc.vcxproj -> E:\WeChat\WeChat Files\JuetinBireber\FileStorage\File\2019-11\网络编程实用教程（第三版）--程序源代码.rar\第05章\点对点聊天\TALK_Client\.\Release\talkc.exe
